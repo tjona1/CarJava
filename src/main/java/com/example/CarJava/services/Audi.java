@@ -1,12 +1,13 @@
-package com.example.CarJava;
+package com.example.CarJava.services;
+
+import com.example.CarJava.entity.Car;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
 public class Audi {
-
-    public List<Car> cars = new ArrayList<>();
+public List<Car> cars = new ArrayList<>();
         Random r = new Random();
 
         public List<Car> car1 () {

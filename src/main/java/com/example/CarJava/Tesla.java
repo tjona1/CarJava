@@ -1,5 +1,7 @@
 package com.example.CarJava;
 
+import com.example.CarJava.entity.Car;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
